@@ -1,0 +1,6 @@
+Updated: Aaron Singh
+GitHub User: A-Singh15
+
+Install via conda as requirement.txt was
+
+conda install -c conda-forge python-dateutil=2.8.2
